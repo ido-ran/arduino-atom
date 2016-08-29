@@ -1,0 +1,19 @@
+{
+  "name": "arduino",
+  "main": "./lib/arduino",
+  "version": "0.1.0",
+  "description": "Arduino tools for Atom",
+  "keywords": [
+    "arduino"
+  ],
+  "activationCommands": {
+    "atom-workspace": "arduino:toggle"
+  },
+  "repository": "https://github.com/ido-ran/arduino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

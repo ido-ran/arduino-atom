@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle arduino",
+        "command": "arduino:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "arduino",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "arduino:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
