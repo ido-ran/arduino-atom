@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "arduino:toggle"
+    "ctrl-alt-o": "arduino:toggle",
+    "ctrl-alt-c": "arduino:compile",
+    "ctrl-alt-u": "arduino:upload"
   }
 }

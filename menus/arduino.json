@@ -17,6 +17,14 @@
             {
               "label": "Toggle",
               "command": "arduino:toggle"
+            },
+            {
+              "label": "Compile",
+              "command": "arduino:compile"
+            },
+            {
+              "label": "Upload",
+              "command": "arduino:upload"
             }
           ]
         }
