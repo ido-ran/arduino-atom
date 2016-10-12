@@ -2,6 +2,7 @@
   "name": "arduino",
   "main": "./lib/arduino",
   "version": "0.0.0",
+  "private": true,
   "description": "Arduino tools for Atom",
   "keywords": [
     "arduino"
