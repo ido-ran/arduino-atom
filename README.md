@@ -12,7 +12,7 @@ There are many features missing - I know :)
 ### Installation
 
 ```
-apm install arduino
+apm install arduino-atom
 ```
 
 Or install inside Atom.
