@@ -1,3 +1,11 @@
+# ⛔ THIS PROJECT IS NOT BEEN MAINTAINED
+
+Sorry but I don't have time to maintain this project.
+
+Ido.
+
+# ===================
+
 # Arduino package
 
 Arduino IDE for the 21st century.
